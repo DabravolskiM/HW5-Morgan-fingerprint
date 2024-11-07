@@ -1,0 +1,9 @@
+name: cleaned_up_HW5
+channels: 
+ - conda-forge
+dependencies:
+ - python=3.12.3
+ - numpy
+ - pandas
+ - rdkit
+ - scikit-learn
