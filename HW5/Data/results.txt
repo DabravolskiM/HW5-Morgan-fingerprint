@@ -1,0 +1,3 @@
+RMSE: 0.802637764797538    Conda Enviornment: base
+ Hyperperameters:
+ N Estimator: 100    Max Depth: 50    Max Iter: 1000
